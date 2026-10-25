@@ -66023,5 +66023,5 @@
     "description": "Stops a double tap in Reading view on phone and tablet from switching the note to editing, with a setting for what a double tap does. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "theluckystrike/reading-tap-guard"
   },
-  {"id":"bigao","name":"Collate","author":"SigiL","description":"Compare two notes side by side in native splits, with differences marked word by word (Chinese-aware segmentation included).","repo":"ouatis/obsidian-bigao"}
+  {"id": "bigao", "name": "Collate", "author": "SigiL", "description": "Compare two notes side by side in native splits, with differences marked word by word (Chinese-aware segmentation included).", "repo": "ouatis/obsidian-bigao"}
 ]
